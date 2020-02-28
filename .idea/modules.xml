@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AramITC.iml" filepath="$PROJECT_DIR$/.idea/AramITC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AramITC.iml" filepath="$PROJECT_DIR$/AramITC.iml" />
     </modules>
   </component>
 </project>
