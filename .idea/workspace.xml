@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c47aec-2403-4540-996d-16ef114cd78c" name="Default Changelist" comment="Обучение">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b3f09ff-f8a4-4680-b119-7328db0f8142" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,9 +94,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -480,11 +475,11 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2290" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582507707632" />
-    <state x="2262" y="64" key="CommitChangelistDialog2" timestamp="1582986350135">
+    <state x="2262" y="64" key="CommitChangelistDialog2" timestamp="1582986735369">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="613" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581887070770" />
-    <state x="2262" y="64" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986350135" />
+    <state x="2262" y="64" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986735369" />
     <state x="2012" y="92" width="1096" height="800" key="DiffContextDialog" timestamp="1582982538944">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
@@ -534,6 +529,10 @@
     </state>
     <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581886537261" />
     <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582982556034" />
+    <state x="2272" y="207" key="MultipleFileMergeDialog" timestamp="1582986817258">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2272" y="207" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986817258" />
     <state x="2225" y="190" key="NewModule_or_Project.wizard" timestamp="1582980127072">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
@@ -557,6 +556,10 @@
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581887101058" />
     <state x="2433" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582978158911" />
+    <state x="2341" y="204" key="git4idea.branch.GitSmartOperationDialog" timestamp="1582986814585">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2341" y="204" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986814585" />
     <state x="2062" y="238" key="git4idea.merge.GitPullDialog" timestamp="1582978382302">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
