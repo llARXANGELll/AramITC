@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c47aec-2403-4540-996d-16ef114cd78c" name="Default Changelist" comment="Обучение">
+    <list default="true" id="96c47aec-2403-4540-996d-16ef114cd78c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Work7/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work7/Task1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,7 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582981014315</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Обучение">
+      <created>1582981254616</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1582981254616</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Обучение">
+      <created>1582981317211</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1582981317211</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -423,20 +438,20 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2290" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582507707632" />
-    <state x="2376" y="151" key="CommitChangelistDialog2" timestamp="1582981254413">
+    <state x="2376" y="151" key="CommitChangelistDialog2" timestamp="1582982026051">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="613" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581887070770" />
-    <state x="2376" y="151" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582981254413" />
+    <state x="2376" y="151" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582982026051" />
     <state x="2012" y="92" width="1096" height="800" key="DiffContextDialog" timestamp="1582981054473">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2012" y="92" width="1096" height="800" key="DiffContextDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582981054473" />
-    <state x="2413" y="248" key="FileChooserDialogImpl" timestamp="1582980807669">
+    <state x="2413" y="248" key="FileChooserDialogImpl" timestamp="1582981373099">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581886784458" />
-    <state x="2413" y="248" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582980807669" />
+    <state x="2413" y="248" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582981373099" />
     <state width="1237" height="325" key="GridCell.Tab.0.bottom" timestamp="1582981019513">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
@@ -490,11 +505,11 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2365" y="196" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582922207093" />
-    <state x="2288" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582981259040">
+    <state x="2288" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582982035653">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581893519266" />
-    <state x="2288" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582981259040" />
+    <state x="2288" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582982035653" />
     <state x="2433" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582978158911">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
