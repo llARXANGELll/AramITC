@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96c47aec-2403-4540-996d-16ef114cd78c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Work7/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work7/Task1/Main.java" afterDir="false" />
+    <list default="true" id="2b3f09ff-f8a4-4680-b119-7328db0f8142" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,7 +360,28 @@
       <option name="project" value="LOCAL" />
       <updated>1582981317211</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Merge branch 'BranchThree'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1582986102081</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1582986102081</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Merge branch 'BranchThree'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1582986169412</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1582986169412</updated>
+    </task>
+    <task id="LOCAL-00033" summary="test1">
+      <created>1582986196592</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1582986196592</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -411,7 +431,9 @@
     </ignored-roots>
     <MESSAGE value="Обучение1" />
     <MESSAGE value="Обучение" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обучение" />
+    <MESSAGE value="Merge branch 'BranchThree'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2152" y="150" key="#Notifications" timestamp="1582976547650">
@@ -438,11 +460,11 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2290" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582507707632" />
-    <state x="2262" y="64" key="CommitChangelistDialog2" timestamp="1582986191204">
+    <state x="2262" y="64" key="CommitChangelistDialog2" timestamp="1582986196392">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="613" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581887070770" />
-    <state x="2262" y="64" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986191204" />
+    <state x="2262" y="64" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986196392" />
     <state x="2012" y="92" width="1096" height="800" key="DiffContextDialog" timestamp="1582981054473">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
@@ -509,11 +531,11 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2365" y="196" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582922207093" />
-    <state x="2288" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582985400580">
+    <state x="2288" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582986199757">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581893519266" />
-    <state x="2288" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582985400580" />
+    <state x="2288" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986199757" />
     <state x="2433" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582986120388">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
