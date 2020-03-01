@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b3f09ff-f8a4-4680-b119-7328db0f8142" name="Default Changelist" comment="test1">
+    <list default="true" id="2b3f09ff-f8a4-4680-b119-7328db0f8142" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Work7/Task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Work7/Task1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="BranchTwoo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,7 +69,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -98,6 +97,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +109,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96c47aec-2403-4540-996d-16ef114cd78c" name="Default Changelist" comment="" />
+      <changelist id="2b3f09ff-f8a4-4680-b119-7328db0f8142" name="Default Changelist" comment="ветка два" />
       <created>1581588567535</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -421,7 +424,28 @@
       <option name="project" value="LOCAL" />
       <updated>1582986445074</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="gitignore">
+      <created>1583070436184</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1583070436184</updated>
+    </task>
+    <task id="LOCAL-00046" summary="ветка два">
+      <created>1583072200732</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1583072200732</updated>
+    </task>
+    <task id="LOCAL-00047" summary="ветка два">
+      <created>1583088047787</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1583088047787</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -472,7 +496,9 @@
     <MESSAGE value="Обучение1" />
     <MESSAGE value="Обучение" />
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="ветка два" />
+    <option name="LAST_COMMIT_MESSAGE" value="ветка два" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2152" y="150" key="#Notifications" timestamp="1582976547650">
@@ -487,10 +513,10 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2014" y="146" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582982262503" />
-    <state x="2320" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582923623112">
+    <state x="2320" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583071776646">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state x="2320" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582923623112" />
+    <state x="2320" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583071776646" />
     <state x="2365" y="192" key="#com.intellij.ide.util.MemberChooser" timestamp="1582581333246">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
@@ -499,20 +525,24 @@
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2290" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582507707632" />
-    <state x="2262" y="64" key="CommitChangelistDialog2" timestamp="1582986627407">
+    <state x="2262" y="64" key="CommitChangelistDialog2" timestamp="1583088538944">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="613" y="117" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581887070770" />
-    <state x="2262" y="64" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986627407" />
+    <state x="2262" y="64" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583088538944" />
     <state x="2012" y="92" width="1096" height="800" key="DiffContextDialog" timestamp="1582986426833">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2012" y="92" width="1096" height="800" key="DiffContextDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986426833" />
-    <state x="2413" y="248" key="FileChooserDialogImpl" timestamp="1582981373099">
+    <state x="2413" y="248" key="FileChooserDialogImpl" timestamp="1583087878363">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581886784458" />
-    <state x="2413" y="248" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582981373099" />
+    <state x="2413" y="248" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583087878363" />
+    <state x="2430" y="385" key="Github.ShareDialog" timestamp="1583088021193">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2430" y="385" key="Github.ShareDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583088021193" />
     <state width="1237" height="325" key="GridCell.Tab.0.bottom" timestamp="1582982556034">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
@@ -553,41 +583,65 @@
     </state>
     <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581886537261" />
     <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582982556034" />
+    <state x="1920" y="57" key="MergeDialog" timestamp="1583070604256">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="1920" y="57" key="MergeDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583070604256" />
+    <state x="2272" y="207" key="MultipleFileMergeDialog" timestamp="1583088364647">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2272" y="207" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583088364647" />
     <state x="2225" y="190" key="NewModule_or_Project.wizard" timestamp="1582980127072">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2225" y="190" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582980127072" />
-    <state x="1991" y="181" key="SettingsEditor" timestamp="1582976525215">
+    <state x="1991" y="181" key="SettingsEditor" timestamp="1583071298466">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581886500884" />
-    <state x="1991" y="181" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582976525215" />
-    <state x="2365" y="196" key="VCS.ChangeListViewerDialog" timestamp="1582922207093">
+    <state x="1991" y="181" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583071298466" />
+    <state x="2365" y="196" key="VCS.ChangeListViewerDialog" timestamp="1583087958149">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state x="2365" y="196" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582922207093" />
+    <state x="2365" y="196" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583087958149" />
     <state x="2455" y="384" key="VCS.ChangelistChooser" timestamp="1582986440912">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2455" y="384" key="VCS.ChangelistChooser/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986440912" />
-    <state x="2288" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582986633765">
+    <state x="2288" y="239" key="Vcs.Push.Dialog.v2" timestamp="1583072713715">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581893519266" />
-    <state x="2288" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986633765" />
+    <state x="2288" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583072713715" />
     <state x="2433" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582986524786">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1581887101058" />
     <state x="2433" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582986524786" />
+    <state x="2341" y="204" key="git4idea.branch.GitSmartOperationDialog" timestamp="1583088361905">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2341" y="204" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583088361905" />
+    <state x="2361" y="283" key="git4idea.merge.GitMergeDialog" timestamp="1583070636257">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2361" y="283" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583070636257" />
     <state x="2062" y="238" key="git4idea.merge.GitPullDialog" timestamp="1582978382302">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="2062" y="238" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582978382302" />
-    <state x="2365" y="356" key="git4idea.rebase.GitRebaseDialog" timestamp="1582978197120">
+    <state x="2365" y="356" key="git4idea.rebase.GitRebaseDialog" timestamp="1583088644107">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
-    <state x="2365" y="356" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1582978197120" />
+    <state x="2365" y="356" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583088644107" />
+    <state x="2301" y="233" key="git4idea.rebase.GitRebaseEditor" timestamp="1583088649134">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="2301" y="233" key="git4idea.rebase.GitRebaseEditor/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583088649134" />
+    <state x="1942" y="193" key="new project wizard" timestamp="1583073084563">
+      <screen x="1920" y="0" width="1280" height="984" />
+    </state>
+    <state x="1942" y="193" key="new project wizard/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1583073084563" />
     <state x="2201" y="218" width="700" height="530" key="recent.locations.popup" timestamp="1582495514553">
       <screen x="1920" y="0" width="1280" height="984" />
     </state>
